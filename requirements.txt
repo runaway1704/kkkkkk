@@ -1,0 +1,6 @@
+asgiref
+Django
+modeltranslation
+psycopg2
+pytz
+sqlparse
